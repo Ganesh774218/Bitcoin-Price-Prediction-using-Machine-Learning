@@ -18,6 +18,4 @@ Performance assessment using accuracy and ROC-AUC scores. Observed validation re
 **Findings:**
 XGBoost exhibited significant overfitting, showing very high accuracy on the training set but poor generalization on validation data, highlighting the challenges in modeling volatile cryptocurrency markets with basic features.
 
-**Recommendations:** Further enhancement with advanced feature engineering, external data integration, and potentially deep learning techniques is necessary to improve predictive capabilities.
-
 This notebook serves as a foundational exploration for Bitcoin price prediction, demonstrating practical data preprocessing, feature construction, and classical machine learning model application in a financial forecasting context.
